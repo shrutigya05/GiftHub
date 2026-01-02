@@ -1,11 +1,32 @@
+# 🎁 GiftHub – Gifting Website Frontend
 
-  # Gift Shop Homepage Design
+GiftHub is a modern and responsive gifting website frontend built using **React.js and Vite**.  
+The project focuses on clean UI, reusable components, and a scalable folder structure.
 
-  This is a code bundle for Gift Shop Homepage Design. The original project is available at https://www.figma.com/design/IsVP6G5SnBoDrkH42EnQtN/Gift-Shop-Homepage-Design.
+This project is suitable for frontend developer roles, internships, and portfolio showcase.
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## 🚀 Features
 
-  Run `npm run dev` to start the development server.
-  
+- Responsive and modern UI
+- Reusable React components
+- Clean and scalable project structure
+- Fast development with Vite
+- Easy to customize and extend
+- Beginner and recruiter friendly
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- CSS / Tailwind CSS
+- Material UI (icons & components)
+
+---
+
+## 📁 Project Structure
+
