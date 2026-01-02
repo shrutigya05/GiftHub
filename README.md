@@ -3,8 +3,6 @@
 GiftHub is a modern and responsive gifting website frontend built using **React.js and Vite**.  
 The project focuses on clean UI, reusable components, and a scalable folder structure.
 
-This project is suitable for frontend developer roles, internships, and portfolio showcase.
-
 ---
 
 ## 🚀 Features
@@ -14,7 +12,6 @@ This project is suitable for frontend developer roles, internships, and portfoli
 - Clean and scalable project structure
 - Fast development with Vite
 - Easy to customize and extend
-- Beginner and recruiter friendly
 
 ---
 
@@ -26,7 +23,5 @@ This project is suitable for frontend developer roles, internships, and portfoli
 - CSS / Tailwind CSS
 - Material UI (icons & components)
 
----
 
-## 📁 Project Structure
 
